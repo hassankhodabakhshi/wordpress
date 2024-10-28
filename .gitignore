@@ -1,0 +1,54 @@
+# WordPress core files
+wp-admin/
+wp-includes/
+!wp-content/plugins/
+!wp-content/themes/
+!wp-content/uploads/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.orig
+
+# Logs
+*.log
+
+# Configuration files
+wp-config.php
+
+# Database files
+*.sql
+*.sql.gz
+
+# Cache
+cache/
+wp-cache-config.php
+wp-content/cache/
+wp-content/backups/
+wp-content/uploads/wpcf7_uploads/
+
+# Temporary files
+tmp/
+temp/
+
+# Vendor directory
+vendor/
+
+# Composer
+composer.lock
+composer.phar
+
+# Node modules
+node_modules/
+npm-debug.log
+package-lock.json
+
+# WordPress specific files
+*.log
+*.sql
+*.zip
+*.tar.gz
+*.tar
