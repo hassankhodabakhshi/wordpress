@@ -1,0 +1,10 @@
+
+			@font-face {
+					font-family: 'vazir';
+					src:url('http://localhost/blog/wp-content/uploads/fontsplugincustomfonts/vazir.woff2') format('woff2'),
+				url('http://localhost/blog/wp-content/uploads/fontsplugincustomfonts/vazir.woff') format('woff'),
+										url('http://localhost/blog/wp-content/uploads/fontsplugincustomfonts/vazir.ttf') format('truetype');
+									}
+
+				.vazir{font-family: 'vazir' !important;}
+			
